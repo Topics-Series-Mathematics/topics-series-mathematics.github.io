@@ -1,0 +1,19 @@
+---
+title: "MIT(18.781) Theory of Numbers"
+link: "/MIT-18.781--Theory-of-Numbers"
+category: "undergraduate"
+
+academic_area: "Mathematics"
+academic_field: ""
+
+area: "Mathematics"
+field: ""
+
+layout: default
+modal-id: 17
+date: 2012-11-30
+img: "theory-of-numbers.png"
+alt: image-alt
+description: "Introduces elementary and analytic number theory, including divisibility, primes,\
+  \ congruences, and arithmetic functions."
+---

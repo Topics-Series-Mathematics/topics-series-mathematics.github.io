@@ -1,0 +1,19 @@
+---
+title: "MIT(18.03SC) Differential Equations"
+link: "/MIT-18.03SC--Differential-Equations"
+category: "undergraduate"
+
+academic_area: "Mathematics"
+academic_field: ""
+
+area: "Mathematics"
+field: ""
+
+layout: default
+modal-id: 13
+date: 2011-06-30
+img: "differential-equations.png"
+alt: image-alt
+description: "Focuses on modeling natural phenomena using differential equations, emphasizing solution\
+  \ techniques and interpretation relevant to science and engineering."
+---

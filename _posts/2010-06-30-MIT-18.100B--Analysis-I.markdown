@@ -1,0 +1,19 @@
+---
+title: "MIT(18.100B) Analysis I"
+link: "/MIT-18.100B--Analysis-I"
+category: "undergraduate"
+
+academic_area: "Mathematics"
+academic_field: ""
+
+area: "Mathematics"
+field: ""
+
+layout: default
+modal-id: 11
+date: 2010-06-30
+img: "analysis-i2010.png"
+alt: image-alt
+description: "Introduces rigorous real analysis, covering limits, continuity, differentiation,\
+  \ and integration with proofs."
+---

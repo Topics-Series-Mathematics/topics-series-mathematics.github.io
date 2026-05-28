@@ -1,0 +1,19 @@
+---
+title: "MIT(18.100A) Real Analysis"
+link: "/MIT-18.100A--Real-Analysis"
+category: "undergraduate"
+
+academic_area: "Mathematics"
+academic_field: ""
+
+area: "Mathematics"
+field: ""
+
+layout: default
+modal-id: 19
+date: 2020-06-30
+img: "real-analysis.png"
+alt: image-alt
+description: "A rigorous course in real analysis covering sequences, series, continuity, differentiation,\
+  \ and integration with proofs."
+---

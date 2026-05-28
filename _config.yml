@@ -1,0 +1,31 @@
+title: Mathematics Topics Series
+url: https://topics-series-mathematics.github.io
+email: nara.moraes@usp.br
+description: ''
+skills: ''
+meta_author: Moraes Nara
+google_verify: null
+bing_verify: null
+contact: static
+disqus_shortname: myshortname
+color:
+  primary: 80B3FF
+  primary-rgb: 128,179,255
+  secondary: 2c3e50
+  secondary-dark: e3dad4
+footer:
+  copyright: Nara Ávila Moraes
+social: null
+markdown: kramdown
+permalink: pretty
+defaults:
+- scope:
+    path: ''
+    type: posts
+  values:
+    permalink: ''
+org: topics-series-mathematics
+utm_source: topics-series-mathematics
+github_url: https://github.com/topics-series-mathematics/topics-series-mathematics.github.io
+ga_tracking_id: G-X9ELZLHCW6
+hero_image: /img/hero-banner.jpg

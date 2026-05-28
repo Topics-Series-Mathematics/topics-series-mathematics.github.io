@@ -1,0 +1,19 @@
+---
+title: "MIT(8.001) Applied Geometric Algebra"
+link: "/MIT-8.001--Applied-Geometric-Algebra"
+category: "undergraduate"
+
+academic_area: "Mathematics"
+academic_field: ""
+
+area: "Mathematics"
+field: ""
+
+layout: default
+modal-id: 10
+date: 2009-11-30
+img: "applied-geometric-algebra.png"
+alt: image-alt
+description: "Introduces geometric algebra as a unified mathematical language for geometry, physics,\
+  \ and engineering applications."
+---

@@ -1,0 +1,19 @@
+---
+title: "MIT(18.712) Introduction to Representation Theory"
+link: "/MIT-18.712--Introduction-to-Representation-Theory"
+category: "undergraduate"
+
+academic_area: "Mathematics"
+academic_field: ""
+
+area: "Mathematics"
+field: ""
+
+layout: default
+modal-id: 12
+date: 2010-06-30
+img: "introduction-to-representation-theory.png"
+alt: image-alt
+description: "Introduces the representation theory of finite groups and Lie algebras, emphasizing\
+  \ examples and structural results."
+---

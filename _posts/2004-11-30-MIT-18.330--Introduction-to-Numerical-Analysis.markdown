@@ -1,0 +1,20 @@
+---
+title: "MIT(18.330) Introduction to Numerical Analysis"
+link: "/MIT-18.330--Introduction-to-Numerical-Analysis"
+category: "undergraduate"
+
+academic_area: "Mathematics"
+academic_field: ""
+
+area: "Mathematics"
+field: ""
+
+layout: default
+modal-id: 3
+date: 2004-11-30
+img: "introduction-to-numerical-analysis.png"
+alt: image-alt
+description: "Introduces fundamental numerical methods for scientific computing, including root\
+  \ finding, interpolation, approximation, numerical integration, differential equations,\
+  \ and linear algebra techniques. - Prof. Gilbert Strang"
+---

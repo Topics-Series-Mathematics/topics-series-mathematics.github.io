@@ -1,0 +1,19 @@
+---
+title: "MIT(18.330) Introduction to Numerical Analysis"
+link: "/MIT-18.330--Introduction-to-Numerical-Analysis"
+category: "undergraduate"
+
+academic_area: "Mathematics"
+academic_field: ""
+
+area: "Mathematics"
+field: ""
+
+layout: default
+modal-id: 16
+date: 2012-11-30
+img: "introduction-to-numerical-analysis2012.png"
+alt: image-alt
+description: "Covers numerical methods for approximation, integration, differential equations,\
+  \ and linear algebra with an emphasis on analysis and implementation."
+---

@@ -1,0 +1,21 @@
+---
+title: "MIT(18.650) Statistics For Applications"
+link: "/MIT-18.650--Statistics-For-Applications"
+category: "undergraduate"
+
+academic_area: "Statistics"
+academic_field: ""
+
+area: "Statistics"
+field: ""
+
+layout: default
+modal-id: 22
+date: 2026-02-28
+img: "statistics-for-applications.png"
+alt: image-alt
+description: "This course offers an in-depth the theoretical foundations for statistical methods\
+  \ that are useful in many applications. The goal is to understand the role of mathematics\
+  \ in the research and development of efficient statistical methods. - Prof. Philippe\
+  \ Rigollet"
+---

@@ -1,0 +1,19 @@
+---
+title: "MIT(18.175) Theory of Probability"
+link: "/MIT-18.175--Theory-of-Probability"
+category: "graduate"
+
+academic_area: "Mathematics"
+academic_field: ""
+
+area: "Mathematics"
+field: ""
+
+layout: default
+modal-id: 18
+date: 2014-11-30
+img: "theory-of-probability.png"
+alt: image-alt
+description: "A rigorous introduction to probability theory, including random variables, distributions,\
+  \ expectation, and convergence."
+---

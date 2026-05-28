@@ -1,0 +1,20 @@
+---
+title: "MIT(18.152) Introduction to Partial Differential Equations"
+link: "/MIT-18.152--Introduction-to-Partial-Differential-Equations-2005"
+category: "undergraduate"
+
+academic_area: "Mathematics"
+academic_field: ""
+
+area: "Mathematics"
+field: ""
+
+layout: default
+modal-id: 5
+date: 2005-06-30
+img: "introduction-to-partial-differential-equations2005.png"
+alt: image-alt
+description: "Provides a rigorous introduction to partial differential equations, focusing on linear\
+  \ second-order equations of elliptic and parabolic type. - Prof. Jeremy Orloff,\
+  \ Prof. Alan Edelman"
+---

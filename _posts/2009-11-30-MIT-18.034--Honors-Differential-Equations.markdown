@@ -1,0 +1,19 @@
+---
+title: "MIT(18.034) Honors Differential Equations"
+link: "/MIT-18.034--Honors-Differential-Equations"
+category: "undergraduate"
+
+academic_area: "Mathematics"
+academic_field: ""
+
+area: "Mathematics"
+field: ""
+
+layout: default
+modal-id: 8
+date: 2009-11-30
+img: "honors-differential-equations.png"
+alt: image-alt
+description: "Covers ordinary differential equations with an emphasis on theory, including existence\
+  \ and uniqueness theorems and qualitative behavior of solutions."
+---

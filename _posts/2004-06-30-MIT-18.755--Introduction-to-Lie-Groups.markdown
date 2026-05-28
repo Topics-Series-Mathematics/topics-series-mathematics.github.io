@@ -1,0 +1,21 @@
+---
+title: "MIT(18.755) Introduction to Lie Groups"
+link: "/MIT-18.755--Introduction-to-Lie-Groups"
+category: "graduate"
+
+academic_area: "Mathematics"
+academic_field: ""
+
+area: "Mathematics"
+field: ""
+
+layout: default
+modal-id: 1
+date: 2004-06-30
+img: "introduction-to-lie-groups.png"
+alt: image-alt
+description: "This course is devoted to the theory of Lie Groups with emphasis on its connections\
+  \ with Differential Geometry. The text for this class is Differential Geometry,\
+  \ Lie Groups and Symmetric Spaces by Sigurdur Helgason (American Mathematical Society,\
+  \ 2001). - Prof. Roman Bezrukavnikov"
+---

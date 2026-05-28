@@ -1,0 +1,19 @@
+---
+title: "MIT(18.152) Introduction to Partial Differential Equations"
+link: "/MIT-18.152--Introduction-to-Partial-Differential-Equations"
+category: "undergraduate"
+
+academic_area: "Mathematics"
+academic_field: ""
+
+area: "Mathematics"
+field: ""
+
+layout: default
+modal-id: 14
+date: 2011-06-30
+img: "introduction-to-partial-differential-equations2011.png"
+alt: image-alt
+description: "Introduces the three fundamental types of partial differential equations—elliptic,\
+  \ parabolic, and hyperbolic—along with mathematical tools and real-world applications."
+---

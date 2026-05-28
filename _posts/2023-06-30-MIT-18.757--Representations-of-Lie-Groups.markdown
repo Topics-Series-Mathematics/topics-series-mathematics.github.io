@@ -1,0 +1,19 @@
+---
+title: "MIT(18.757) Representations of Lie Groups"
+link: "/MIT-18.757--Representations-of-Lie-Groups"
+category: "graduate"
+
+academic_area: "Mathematics"
+academic_field: ""
+
+area: "Mathematics"
+field: ""
+
+layout: default
+modal-id: 21
+date: 2023-06-30
+img: "representations-of-lie-groups.png"
+alt: image-alt
+description: "An advanced course on representation theory of Lie groups, including highest weight\
+  \ theory and unitary representations."
+---

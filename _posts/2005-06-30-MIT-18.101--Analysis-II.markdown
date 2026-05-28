@@ -1,0 +1,19 @@
+---
+title: "MIT(18.101) Analysis II"
+link: "/MIT-18.101--Analysis-II"
+category: "undergraduate"
+
+academic_area: "Mathematics"
+academic_field: ""
+
+area: "Mathematics"
+field: ""
+
+layout: default
+modal-id: 4
+date: 2005-06-30
+img: "analysis-ii.png"
+alt: image-alt
+description: "A continuation of rigorous analysis, covering multivariable calculus and an introduction\
+  \ to differential forms on Euclidean spaces and manifolds. - Prof. Denis Auroux"
+---

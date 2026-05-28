@@ -1,0 +1,19 @@
+---
+title: "MIT(18.769) Topics in Lie Theory: Tensor Categories"
+link: "/MIT-18.769--Topics-in-Lie-Theory"
+category: "graduate"
+
+academic_area: "Mathematics"
+academic_field: ""
+
+area: "Mathematics"
+field: ""
+
+layout: default
+modal-id: 9
+date: 2009-11-30
+img: "topics-in-lie-theory.png"
+alt: image-alt
+description: "Explores advanced topics in Lie theory, focusing on tensor categories and their applications\
+  \ in representation theory."
+---

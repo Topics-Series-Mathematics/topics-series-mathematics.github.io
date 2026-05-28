@@ -1,0 +1,20 @@
+---
+title: "MIT(18.034) Honors Differential Equations"
+link: "/MIT-18.034--Honors-Differential-Equations"
+category: "undergraduate"
+
+academic_area: "Mathematics"
+academic_field: ""
+
+area: "Mathematics"
+field: ""
+
+layout: default
+modal-id: 2
+date: 2004-11-30
+img: "honors-differential-equations.png"
+alt: image-alt
+description: "Covers the same material as 18.03 with greater emphasis on theory, including first-order\
+  \ equations, initial value problems, systems, linear equations, and qualitative\
+  \ analysis of planar systems. - Prof. Haynes R. Miller, Prof. David Jerison"
+---

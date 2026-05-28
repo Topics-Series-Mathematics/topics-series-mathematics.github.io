@@ -1,0 +1,20 @@
+---
+title: "MIT(18.303) Linear Partial Differential Equations"
+link: "/MIT-18.303--Linear-Partial-Differential-Equations"
+category: "undergraduate"
+
+academic_area: "Mathematics"
+academic_field: ""
+
+area: "Mathematics"
+field: ""
+
+layout: default
+modal-id: 6
+date: 2006-06-30
+img: "linear-partial-differential-equations.png"
+alt: image-alt
+description: "Studies classical linear partial differential equations such as diffusion, Laplace,\
+  \ Poisson, and wave equations, with solution methods including Fourier series and\
+  \ Green’s functions."
+---

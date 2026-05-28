@@ -1,0 +1,19 @@
+---
+title: "MIT(18.100A) Introduction to Analysis"
+link: "/MIT-18.100A--Introduction-to-Analysis"
+category: "undergraduate"
+
+academic_area: "Mathematics"
+academic_field: ""
+
+area: "Mathematics"
+field: ""
+
+layout: default
+modal-id: 15
+date: 2012-06-30
+img: "introduction-to-analysis.png"
+alt: image-alt
+description: "A first course in rigorous real analysis focusing on proofs, sequences, limits, continuity,\
+  \ and differentiation."
+---

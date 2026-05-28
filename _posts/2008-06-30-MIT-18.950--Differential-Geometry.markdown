@@ -1,0 +1,19 @@
+---
+title: "MIT(18.950) Differential Geometry"
+link: "/MIT-18.950--Differential-Geometry"
+category: "undergraduate"
+
+academic_area: "Mathematics"
+academic_field: ""
+
+area: "Mathematics"
+field: ""
+
+layout: default
+modal-id: 7
+date: 2008-06-30
+img: "differential-geometry.png"
+alt: image-alt
+description: "A rigorous introduction to differential geometry with an emphasis on concrete examples\
+  \ and the geometric concept of curvature."
+---

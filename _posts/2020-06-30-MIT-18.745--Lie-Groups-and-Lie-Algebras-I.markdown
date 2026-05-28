@@ -1,0 +1,19 @@
+---
+title: "MIT(18.745) Lie Groups and Lie Algebras I"
+link: "/MIT-18.745--Lie-Groups-and-Lie-Algebras-I"
+category: "graduate"
+
+academic_area: "Mathematics"
+academic_field: ""
+
+area: "Mathematics"
+field: ""
+
+layout: default
+modal-id: 20
+date: 2020-06-30
+img: "lie-groups-and-lie-algebras.png"
+alt: image-alt
+description: "Studies Lie groups and Lie algebras, including structure theory, representations,\
+  \ and connections to geometry."
+---
